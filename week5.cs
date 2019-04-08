@@ -20,6 +20,9 @@ namespace ConsoleApp1
                 Console.WriteLine("Yeah, I have got it");
             }
         }
-        
+        static bool Peanut()
+        {
+            return true;
+        }
     }
 }
