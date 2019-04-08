@@ -13,6 +13,13 @@ namespace ConsoleApp1
             MethodA();
         }
         
+        static void MethodA()
+        {
+            while( Peanut())
+            {
+                Console.WriteLine("Yeah, I have got it");
+            }
+        }
         
     }
 }
